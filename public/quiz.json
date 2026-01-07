@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question": "What is the right to play and why is it important for children?",
+        "options": [
+            "To study",
+            "To have fun and relax",
+            "To clean the house",
+            "To cook meals"
+        ],
+        "answer": "To have fun and relax"
+    },
+    {
+        "id": "02",
+        "question": "Why do children have the right to go to school and learn new things?",
+        "options": [
+            "To sleep",
+            "To make friends",
+            "To learn new things",
+            "To watch TV all day"
+        ],
+        "answer": "To learn new things"
+    },
+    {
+        "id": "03",
+        "question": "How does the right to safety help children stay protected from harm?",
+        "options": [
+            "To play unsupervised outside",
+            "To wear a helmet while riding a bike",
+            "To eat junk food",
+            "To wander alone in unfamiliar places"
+        ],
+        "answer": "To wear a helmet while riding a bike"
+    },
+    {
+        "id": "04",
+        "question": "Why is it important for children to have the right to express their thoughts and feelings?",
+        "options": [
+            "To eat snacks",
+            "To express happiness and sadness",
+            "To ignore others",
+            "To break toys"
+        ],
+        "answer": "To express happiness and sadness"
+    },
+    {
+        "id": "05",
+        "question": "What does the right to healthcare mean for children and why is it important?",
+        "options": [
+            "To eat candies all day",
+            "To visit the doctor for check-ups",
+            "To watch cartoons all day",
+            "To sleep all day"
+        ],
+        "answer": "To visit the doctor for check-ups"
+    },
+    {
+        "id": "06",
+        "question": "How does the right to food ensure that children have enough to eat and stay healthy?",
+        "options": [
+            "To eat only desserts",
+            "To have balanced meals",
+            "To skip meals",
+            "To eat only junk food"
+        ],
+        "answer": "To have balanced meals"
+    },
+    {
+        "id": "07",
+        "question": "Why is the right to family and parental care important for children's well-being?",
+        "options": [
+            "To stay alone at home",
+            "To have a loving family and caring parents",
+            "To live in orphanages",
+            "To stay with strangers"
+        ],
+        "answer": "To have a loving family and caring parents"
+    },
+    {
+        "id": "08",
+        "question": "What does the right to rest and leisure mean for children and why is it essential?",
+        "options": [
+            "To work all day",
+            "To rest and play",
+            "To study all day",
+            "To watch TV all day"
+        ],
+        "answer": "To rest and play"
+    },
+    {
+        "id": "09",
+        "question": "How does the right to clean water and sanitation contribute to children's health?",
+        "options": [
+            "To drink contaminated water",
+            "To have access to clean water and sanitation facilities",
+            "To drink only soda",
+            "To play in dirty water"
+        ],
+        "answer": "To have access to clean water and sanitation facilities"
+    },
+    {
+        "id": "10",
+        "question": "Why do children have the right to be protected from violence, abuse, and neglect?",
+        "options": [
+            "To be exposed to violence",
+            "To be treated with care and respect",
+            "To stay in unsafe environments",
+            "To experience neglect"
+        ],
+        "answer": "To be treated with care and respect"
+    }
+]
