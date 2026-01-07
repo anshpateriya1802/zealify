@@ -7,23 +7,19 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-4">
             <h5>Contact Us</h5>
-            <p>Email: example@example.com</p>
-            <p>Phone: +1234567890</p>
+            <p>Email: pateriyaansh@gmail.com</p>
+            <p>Phone: +91 7985663261</p>
           </div>
           <div className="col-md-4">
             <h5>Follow Us</h5>
             <ul className="list-unstyled">
+              
               <li>
-                <a href="#!">Instagram</a>
+                <a href="https://www.linkedin.com/in/ansh-pateriya/">LinkedIn</a>
               </li>
+              
               <li>
-                <a href="#!">Twitter</a>
-              </li>
-              <li>
-                <a href="#!">Instagram</a>
-              </li>
-              <li>
-                <a href="#!">Github</a>
+                <a href="https://github.com/anshpateriya1802">Github</a>
               </li>
             </ul>
           </div>

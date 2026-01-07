@@ -41,7 +41,7 @@ const AboutPage = () => {
             <div className="text-center mt-6">
               <Button
               style={{margin:"20px",padding:"10px"}}
-                href="https://github.com/smartcraze/Allies"
+                href="https://github.com/anshpateriya1802/zealify"
                 target="_blank"
                 variant="primary"
                 className="px-4 py-1 container bg-gray-800 text-white rounded-md shadow-md hover:bg-gray-700"
